@@ -1,2 +1,2 @@
-# patternrepeatcanvas
+# canvas-game
 Created with CodeSandbox
